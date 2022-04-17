@@ -1,0 +1,55 @@
+[
+    {
+        "id": 0,
+        "Destination": "Maldives",
+        "Picture": "images/maldives.jpg",
+        "For": "2",
+        "Date": "13 March",
+        "Duration": "1 week"
+    },
+
+    {
+        "id": 1,
+        "Destination": "Bali",
+        "Picture": "images/bali.jpg",
+        "For": "4",
+        "Date": "3 May",
+        "Duration": "4 days"
+    },
+
+    {
+        "id": 2,
+        "Destination": "Bora Bora",
+        "Picture": "images/borabora.jpg",
+        "For": "3",
+        "Date": "18 April",
+        "Duration": "2 weeks"
+    },
+
+    {
+        "id": 3,
+        "Destination": "Marbella",
+        "Picture": "images/marbella.jpg",
+        "For": "6",
+        "Date": "24 April",
+        "Duration": "1 week"
+    },
+    
+    {
+        "id": 4,
+        "Destination": "Seychelles",
+        "Picture": "images/seychelles.jpg",
+        "For": "2",
+        "Date": "6 June",
+        "Duration": "5 days"
+    },
+
+    {
+        "id": 5,
+        "Destination": "Zanzibar",
+        "Picture": "images/zanzibar.jpg",
+        "For": "2",
+        "Date": "26 July",
+        "Duration": "12 days"
+    }
+]
